@@ -1,6 +1,6 @@
 # ruby-test
 
-If I was to take the time to solve this problem the correct way and in a rails environment:
+#If I was to take the time to solve this problem the correct way and in a rails environment:
 	-I would create a model to represent the Stocks and their pricing 
 	-A Portfolio model to handle the users portfolio 
 	-A model to handle the buy and sell methods where we can store the transaction details.
